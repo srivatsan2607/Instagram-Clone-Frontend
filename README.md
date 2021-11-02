@@ -1,3 +1,5 @@
+# Fill the cloudinary details and api url in env as specified formats
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
